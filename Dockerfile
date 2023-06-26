@@ -1,4 +1,3 @@
-# esto es una prueba
 FROM centos
 MAINTAINER Sander <mail@sandervanvugt.nl>
 
