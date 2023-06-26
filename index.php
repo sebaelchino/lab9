@@ -9,5 +9,8 @@
 		<p><b>Es una prueba</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
+	<h2>PHP Information</h2> 
+		<p> <?php phpinfo(); ?> </p> 
+        <h2>DZJEN DOBRE GEZELLIGE GRIEZELS UIT GRONINGEN</h2>
 	</body> 
 </html>
